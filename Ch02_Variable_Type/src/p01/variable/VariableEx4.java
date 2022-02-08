@@ -4,7 +4,7 @@ public class VariableEx4 {
 
 	public static void main(String[] args) {
 		 int a = 5;
-	
+		System.out.println(a);
 		 String str = new String("홍길동");
 		 
 		 System.out.println("abc");

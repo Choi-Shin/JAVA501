@@ -14,7 +14,7 @@ public class Array_PersonEx2 {
 		}
 		
 		for (int i = 0; i < pa.length; i++) {
-			pa[i] = new Person("홍길동" + i,30 + i );// 홍길동0, 30
+			pa2[i] = new Person("홍길동" + i,30 + i );// 홍길동0, 30
 			System.out.println(pa[i].name + "님의 나이는 " + pa[i].age + "입니다.");
 		}
 		
